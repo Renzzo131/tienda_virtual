@@ -1,0 +1,16 @@
+{
+    "name": "tiendavirtual/petshop",
+    "description": "Virtual pet shop prototype",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "your@example.com"
+        }
+    ],
+    "require": {}
+}
